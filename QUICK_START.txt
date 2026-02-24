@@ -1,0 +1,208 @@
+═══════════════════════════════════════════════════════════════
+  CCEP WORLD CUP 2026 - QUICK START GUIDE
+  Get Your Campaign Website Live in 5 Minutes!
+═══════════════════════════════════════════════════════════════
+
+📦 YOUR FILES (All needed for GitHub):
+
+✅ index.html       - Main campaign page
+✅ styles.css       - All styling and animations
+✅ script.js        - Interactive features & countdown
+✅ README.md        - Project documentation
+✅ LICENSE          - MIT License
+✅ .gitignore       - Git configuration
+
+═══════════════════════════════════════════════════════════════
+
+🚀 FASTEST WAY TO GET ONLINE (5 MINUTES):
+
+1. Create GitHub Account
+   → Go to: https://github.com/signup
+   → Sign up (it's free!)
+
+2. Create New Repository
+   → Go to: https://github.com/new
+   → Name: ccep-worldcup2026
+   → Make it PUBLIC
+   → Click "Create repository"
+
+3. Upload Your Files
+   → Click "uploading an existing file"
+   → Drag ALL 6 files listed above
+   → Click "Commit changes"
+
+4. Enable GitHub Pages
+   → Go to Settings (top of page)
+   → Click "Pages" (left sidebar)
+   → Source: Select "main" branch
+   → Click "Save"
+
+5. Get Your Live URL (wait 2 minutes)
+   → Refresh the Pages settings
+   → You'll see: "Your site is live at..."
+   → Click the URL!
+
+🎉 YOUR CAMPAIGN IS NOW LIVE!
+
+Your URL will be:
+https://YOUR-USERNAME.github.io/ccep-worldcup2026/
+
+(Replace YOUR-USERNAME with your GitHub username)
+
+═══════════════════════════════════════════════════════════════
+
+📱 WHAT YOUR CAMPAIGN WEBSITE HAS:
+
+✓ Live countdown timer to campaign end
+✓ Interactive demo widget (try before registering)
+✓ Points tracking system
+✓ 3 Reward milestones (50, 75, 100 points)
+✓ Business category tabs (Horeca vs Takeaway)
+✓ Live leaderboard
+✓ Animated progress bars
+✓ Mobile-responsive design
+✓ Smooth scroll animations
+✓ FAQ section
+✓ Professional footer
+
+═══════════════════════════════════════════════════════════════
+
+🎨 CAMPAIGN FEATURES:
+
+REWARD MILESTONES:
+• 50 points  → Free business items (10 winners)
+• 75 points  → Free management course (all qualifiers)
+• 100 points → World Cup Final ticket + fridge (3 winners)
+
+POINT EARNING:
+• Register account: +5 pts
+• Complete profile: +5 pts
+• Subscribe channels: +5 pts
+• Daily login: +1 pt per day
+• Pre-orders: +10 to +30 pts (tier-based)
+
+═══════════════════════════════════════════════════════════════
+
+🔧 NEED TO CUSTOMIZE?
+
+Campaign End Date (in script.js, line 1014):
+Change: var CAMPAIGN_END_DATE = new Date('2026-06-01T23:59:59Z');
+
+Brand Colors (in styles.css, lines 11-15):
+Change: --red: #E61A14
+        --gold: #D4A017
+
+Company Name (search and replace in index.html):
+Find: "CCEP"
+Replace with: "YOUR COMPANY NAME"
+
+═══════════════════════════════════════════════════════════════
+
+🆘 PROBLEMS?
+
+Problem: "Website not showing"
+→ Wait 5 minutes, refresh browser
+→ Make sure repository is PUBLIC
+→ Check Settings > Pages is enabled
+
+Problem: "Countdown not working"
+→ Update date in script.js (line 1014)
+→ Use format: new Date('YYYY-MM-DDTHH:MM:SSZ')
+
+Problem: "Styles not loading"
+→ Files must be named EXACTLY:
+  index.html (not Index.html)
+  styles.css (not Styles.css)
+  script.js (not Script.js)
+
+Problem: "Demo widget not working"
+→ Check browser console (F12)
+→ Make sure script.js is properly linked
+
+═══════════════════════════════════════════════════════════════
+
+📚 FULL INSTRUCTIONS:
+
+For detailed step-by-step guide:
+→ DEPLOY.md (in this folder)
+
+For project information:
+→ README.md (in this folder)
+
+═══════════════════════════════════════════════════════════════
+
+💡 PRO TIPS:
+
+1. Test website on phone and desktop
+2. Update campaign end date before launch
+3. Customize business categories for your market
+4. Add Google Analytics (optional)
+5. Share link via email campaigns
+6. Promote on social media
+
+═══════════════════════════════════════════════════════════════
+
+✨ BACKEND INTEGRATION (Optional):
+
+This is frontend-only. To add backend:
+• User authentication & registration
+• Real points tracking database
+• Live leaderboard updates
+• Admin dashboard
+• Email notifications
+
+See script.js (lines 1173-1202) for API integration guide.
+
+Backend options:
+• Node.js + Express + MongoDB
+• PHP + Laravel + MySQL
+• Python + Django + PostgreSQL
+• Firebase / Supabase (easiest)
+
+═══════════════════════════════════════════════════════════════
+
+🎯 POST-LAUNCH CHECKLIST:
+
+□ Countdown timer shows correct date
+□ Demo widget works on desktop & mobile
+□ All navigation links scroll smoothly
+□ Reward cards display properly
+□ Mobile responsive layout works
+□ Leaderboard table displays correctly
+□ FAQ section expands properly
+
+═══════════════════════════════════════════════════════════════
+
+🔗 IMPORTANT URLS:
+
+GitHub Sign Up:
+→ https://github.com/signup
+
+Create Repository:
+→ https://github.com/new
+
+GitHub Pages Docs:
+→ https://docs.github.com/en/pages
+
+Your Live Website:
+→ https://YOUR-USERNAME.github.io/ccep-worldcup2026/
+   (Replace YOUR-USERNAME)
+
+═══════════════════════════════════════════════════════════════
+
+🎉 YOU'RE READY!
+
+You have a professional B2B rewards campaign website ready to
+launch. No coding knowledge needed. Just upload and go!
+
+═══════════════════════════════════════════════════════════════
+
+                  START WITH QUICK UPLOAD!                   
+
+              Your campaign goes live in 5 minutes!          
+
+═══════════════════════════════════════════════════════════════
+
+Good luck with your World Cup 2026 campaign! 🚀⚽🏆
+
+═══════════════════════════════════════════════════════════════
